@@ -101,11 +101,11 @@ h3{
 }
 
 section{
-	background-image: url("bg.jpg");
+	background-image: url(images/"bg.jpg");
 	background-color: #D5B8F9;
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	height: 800px;
+	height: 100vh;
 	transition: all .5s;
 }
