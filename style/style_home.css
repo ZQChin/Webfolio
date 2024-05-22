@@ -97,7 +97,7 @@ label #cancel{
 }
 
 section{
-	background-image: url(images/background.jpg);
+	background-image: url(images/"background.jpg");
 	background-color: #D5B8F9;
 	background-repeat: no-repeat;
 	background-size: cover;
