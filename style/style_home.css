@@ -98,6 +98,7 @@ label #cancel{
 
 section{
 	background-image: url("../images/portBackground.jpg");
+	background-color: #D5B8F9;
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
