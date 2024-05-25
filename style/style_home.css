@@ -97,7 +97,7 @@ label #cancel{
 }
 
 section{
-	background-image: url(".../images/portbackground.jpg");
+	background-image: url(".../images/portBackground.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
 	height: 100vh;
